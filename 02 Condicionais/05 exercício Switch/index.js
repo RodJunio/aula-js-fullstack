@@ -1,4 +1,4 @@
-let distanceInLy = prompt(`Qual a distância em anos-luz?`);
+let distanceInLy = prompt(`Qual a distância em anos-luz??`);
 
 let chosenOption = prompt(`Escolha em qual medida deseja converter a distância:
 1- Parsec(pc)
