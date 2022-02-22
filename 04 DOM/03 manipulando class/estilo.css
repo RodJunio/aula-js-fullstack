@@ -1,0 +1,16 @@
+#exemplo {
+    padding: 100px;
+    border: 1px solid #000000;
+}
+
+.verde {
+    background-color: #00FF00;
+}
+
+.vermelho {
+    background-color: #FF0000;
+}
+
+.azul {
+    background-color: #0000FF;
+}
