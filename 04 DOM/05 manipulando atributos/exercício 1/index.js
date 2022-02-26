@@ -4,6 +4,6 @@ function trocarImagem(filename, animalname) {
 }
 
 function pegarAnimal() {
-    let animal = document.querySelector('.imagem').getAttribute('data-animal' );
+    let animal = document.querySelector('.imagem').getAttribute('data-animal');
     alert(`O animal é: ${animal}`)
 }

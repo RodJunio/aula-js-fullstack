@@ -1,0 +1,27 @@
+img {
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.5);
+    margin-bottom: 5px;
+}
+main {
+    display: grid;
+    justify-items: center;
+}
+
+button {
+    width: 400px;
+    padding: 40px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: aquamarine;
+}
+button:hover {
+    background-color: aqua;
+}
+h1,
+p {
+    display: none;
+}

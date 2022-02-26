@@ -1,0 +1,12 @@
+document.querySelector('.texto').offsetWidth: mostra a dimensão total do elemento, incluindo padding, scroll ..
+
+document.querySelector('.texto').offsetHeight: mostra a dimensão total do elemento, incluindo padding, scroll ..
+
+document.querySelector('.texto').clientWidth: 
+
+document.querySelector('.texto').offsetHeight: ostra a dimensão do elemento subtraindo o scroll ..
+
+document.querySelector('.texto').scrollHeight: mostra o tamanho real do texto
+
+document.querySelector('.texto').scrollWidth: mostra o tamanho real do texto
+
