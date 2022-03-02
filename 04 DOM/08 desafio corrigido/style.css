@@ -21,3 +21,7 @@ button {
 button:hover {
     background-color: aqua;
 }
+p {
+  width: 600px;
+  text-align: center;
+}

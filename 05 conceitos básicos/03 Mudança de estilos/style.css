@@ -1,0 +1,29 @@
+#phone {
+    display: none;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+button {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #8a2be2;
+    color: #fff;
+    box-shadow: 2px 2px 0px 0px gold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #8a2bbe;
+}
+
+p {
+    font-size: 2rem;
+    border: 1px solid #8a2be2;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
